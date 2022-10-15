@@ -1,4 +1,4 @@
-# This repository contains the code I wrote during the 2020-2021 "Ultimate Goal" season of First Tech Challenge robotics. I was the sole programmer for my team, Need For Speed.
+# This repository contains the code I wrote as lead programmer for my high school robotics team, Need For Speed, during the 2020-2021 "Ultimate Goal" season of First Tech Challenge robotics.
 
 [**Click here to view the Javadoc documenation**](https://www.javadoc.needforspeedrobotics.org)
 
